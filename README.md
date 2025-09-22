@@ -20,8 +20,6 @@ Final Project Information Systems:  versatile learning app, flash card style
 <p>
   <img width="795" height="457" alt="RegistrierungScreen" src="https://github.com/user-attachments/assets/3b2fcece-51c9-4cdb-bb9c-ef3ef42c7ef6" />
   
-  <img width="806" height="440" alt="LoginScreen" src="https://github.com/user-attachments/assets/b34aa250-9598-4ad4-8d7a-a9b7d678ede5" />
-
   <img width="823" height="427" alt="EingabeTextBoxScreen2" src="https://github.com/user-attachments/assets/ff7029f1-8037-4ba5-80ea-1cb65bd2f8e5" />
   
   <img width="749" height="428" alt="AbfrageStart" src="https://github.com/user-attachments/assets/1e5ff401-f2d4-4f40-8b64-d440e46885d5" />
