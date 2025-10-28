@@ -1,8 +1,10 @@
 # Final_Project_Study_App
 Final Project Information Systems:  versatile learning app, flash card style 
 
-Change the connection string in StudyApp/FlashCards11/ServerConnection.cs' to fit your computer's settings.
-To use this app install SQLServer and enter the queries in 'FlashCards11NewSQL.sql' into its editor. Test data can be found in 'InsertIntoFlashCards11New.sql'.
+How to use:
+1) The project can be found in the StudyApp02_Katharina_Mueller.zip file. Please extract before use.
+2) Change the connection string in StudyApp/FlashCards11/ServerConnection.cs' to fit your computer's settings.
+3) Install SQLServer and enter the queries in 'FlashCards11NewSQL.sql' into its editor. Test data can be found in 'InsertIntoFlashCards11New.sql'.
 
 
 <b>UML use case</b>:
